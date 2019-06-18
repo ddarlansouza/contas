@@ -8,7 +8,7 @@ Objetivo: Criação do banco de dados 'contas.db'
 """
 
 from Usuarios import Usuarios
-from tkinter import *
+from Tkinter import *
   
 class Application:
     def __init__(self, master=None):
@@ -26,6 +26,8 @@ class Application:
         self.container3["pady"] = 5
         self.container3.pack()
         self.container4 = Frame(master)
+        
+        # teste 
         self.container4["padx"] = 20
         self.container4["pady"] = 5
         self.container4.pack()
