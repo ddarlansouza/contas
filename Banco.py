@@ -1,4 +1,12 @@
 # -*- coding: utf-8 -*-
+"""
+Sistema : Controle de Contas SisContas
+Função  : Banco.py
+Autor   : Darlan Souza
+Data    : 06/06/2019 22:55:03
+Objetivo: Atualização da rotina de Bancos de dados'
+"""
+
 
 #importando módulo do SQlite
 from ler_config import Inicial
