@@ -3,7 +3,7 @@
 Sistema : Controle de Contas SisContas
 Função  : App.py
 Autor   : Darlan Souza
-Data    : 06/06/2019 22:55:03
+Data    : 18/06/2019 22:55:03
 Objetivo: Criação do banco de dados 'contas.db'
 """
 
